@@ -27,7 +27,7 @@ Algorithm for Calculating Area of a Rectangle and Volume of a Cube:
 6. End of the program.
 7. 
 
-**B.function out-of class - **uses  class Rectangle to calculate the area of a rectangle.
+**B.function out-of class - ** uses  class Rectangle to calculate the area of a rectangle.
 Algorithm - 
 Algorithm for Calculating the Area of a Rectangle:
 
